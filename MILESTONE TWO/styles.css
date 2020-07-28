@@ -1,0 +1,165 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+
+ "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+  <head>
+
+    <meta name="Generator" content="FreshHTML v3.69"></meta>
+
+  </head>
+
+  <body>
+
+    <h1>CREATIVE TRIANGLE<img src="file:///c:/Users/user/Desktop/CREATIVE/images.jpg"></h1>
+  <nav>
+   <ul>
+      <!- - list item one - -> 
+     <style>
+     ul {
+          display:inline;
+          color:blue;
+          border:1px solid;
+          display:none;
+          padding:2vw;
+          font-size:3vh;
+          background-color:#AFE0FF;
+          outline:none;
+          cursor:pointer;
+          text-align:left;
+         }
+      </style>
+      <ul><a>Home</a> </ul>
+      <!- - button here - ->
+      <button></button>
+     <style>
+        button {
+          display:none;
+            }
+    </style>
+    <ul>
+     <!- - link one - ->
+     <a href="#home">Home </a>
+        </ul>
+      <style>      ul {display:inline;
+      }
+      </ul>
+      </style>
+      <!- - list item two - ->
+      <ul><a>About</a> </ul><style>{display:inline;}</style>
+     <!- - button here - ->
+     <button></button>
+    <style>
+     button{
+        display:none;
+    }
+     </style>
+    <style>
+ @media only screen and (max-width:500px)
+ ....
+   button{
+         /*makes the button visible*/
+         display:block;
+
+         /*since we are here, we can style it a little bit!*/
+         padding:2vw;
+         font-size:3vh;
+         background-color:#AFE0FF;
+         border:none;
+
+         /*outline none removes the default blue border that appears anytime you click on the button*/
+         outline:none;
+
+        cursor:pointer;
+}
+    </style>
+     <ul>
+        <! - - link one - ->
+        <a href="about"> About</a>
+     </ul>
+      <!- - list item three - ->
+      <ul><a>How it works</ul>
+      <!- -button here - ->
+      <button></button>
+      <ul>
+       <!- - link one - ->
+      <a href="how it works">How it works</al>
+     </ul>
+      <!- - list item four - ->
+      <ul><a>Help</a></ul>
+      <!- - button here - ->
+     <button></button>
+    <ul>
+    <!- - link one - ->
+   <a href="help">Help</a>
+   </ul>
+      <!- - list item five - ->
+      <ul>Contact</ul>
+       <!- - button here - ->
+       <button></button>
+       <ul>
+       <! - - link one - ->
+       <a href="contact">Contact</a>
+       </ul>
+   </ul>
+  </nav>
+
+    Welcome to Creative Triangle,it's a creative space which customizes your designs
+
+    and showcases your creative work.<br>If you have any creative design or work that you want to showcase kindly contact us.<br>Don't miss this opportunity to share your work.Welcome!
+    <br><b>YOUR DETAILS</b>
+   <form>
+   <div>
+    <label for="name" class="title">Name:</label>
+    <input type="text" id="name" name="name"/>
+   </div>
+   <div>
+   <label for="email" class="title">Email:</label>
+  <input type="email" id="email" name="email"/>
+  </div>
+ <div>
+  <label for="zipcode" class="title">Zipcode:</label>
+  <input type="zipcode" id="zipcode" name="zipcode"/>
+  </div>
+  <div>
+ <label for="country" class="title">Country:</label>
+ <input type="country" id="country" name="country"/>
+ </div>
+  <div>
+   <span class="title">Gender:</span>
+  <input type="radio" name="gender" id="male" value="M"/>
+  <label for="male">Male</label>
+  <input type="radio" name="gender" id="female" value="F"/>
+  <label for="female">Female</label><br/>
+  </div>
+  <div>
+  <input type="submit" value="Submit" id="submit"/>
+ </div>
+    </form> 
+ <img src="file:///c:/Users/user/Desktop/download.jpg">  <img src="file:///c:/Users/user/Desktop/CREATIVE/download.jpg"> 
+<h2><b><i>PUT YOUR CREATIVE ENERGY TO WORK!</i></b></h2>
+       <style>
+      h2 {
+            text-align:center;
+        }
+  </style>
+ <style>
+ .footer {
+       position:fixed;
+       left:0;
+       bottom:0;
+       width:100%;
+       background-color:red;
+       color:white;
+       text-align:center;
+}
+ </style>
+<div class="footer">
+     <p><i>Grasp this opportunity</i></p>
+</div>
+ 
+  </body>
+
+</html>
+
